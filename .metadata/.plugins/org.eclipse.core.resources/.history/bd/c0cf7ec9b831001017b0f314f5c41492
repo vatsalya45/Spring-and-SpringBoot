@@ -1,0 +1,5 @@
+package com.vatsalya.model;
+
+public class Employee {
+
+}

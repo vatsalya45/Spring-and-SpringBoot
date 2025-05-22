@@ -1,0 +1,54 @@
+package com.vatsalya;
+
+import java.util.*;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+import com.vatsalya.controller.EmployeeOperationsController;
+import com.vatsalya.model.Employee;
+
+@SpringBootApplication
+public class BootIocProject4MiniProjectApplication {
+
+	public static void main(String[] args) {
+		
+		try (
+			//get Access to the IOC container
+			
+			ConfigurableApplicationContext ctx = SpringApplication.run(BootIocProject4MiniProjectApplication.class, args);
+			
+			//get Scanner Class Object
+			Scanner sc = new Scanner(System.in);)
+		{
+			//get Controller Spring Bean Class Object Reference
+			
+			EmployeeOperationsController controller = ctx.getBean("Operation-controller",EmployeeOperationsController.class);
+			
+			//read inputs from the end user
+			System.out.println("Enter the Desg1");
+			String d1 = sc.next();
+			System.out.println("Enter the Desg2");
+			String d2 = sc.next();
+			System.out.println("Enter the Desg3");
+			String d3 = sc.next();
+			
+			//invoke the b method
+			
+			List<Employee> list = controller.showAllEmployeeByDesgs(d1, d2, d3);
+			
+			//display result
+			
+			System.out.println("Employees belonging to the "+d1+" "+d2+" "+d3+" ");
+			list.forEach(emp->{
+				System.out.println(emp);
+			});
+			
+		}
+		catch (Exception e) {
+			
+		}
+	}	
+
+}

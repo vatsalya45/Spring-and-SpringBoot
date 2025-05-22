@@ -1,0 +1,15 @@
+package com.vatsalya.service;
+
+import java.util.List;
+
+import com.vatsalya.model.Employee;
+
+public class EmployeeServiceImpl implements IEmployeeService {
+
+	@Override
+	public List<Employee> fetchAllEmployeeByDegs(String desg1, String desg2, String desg3) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

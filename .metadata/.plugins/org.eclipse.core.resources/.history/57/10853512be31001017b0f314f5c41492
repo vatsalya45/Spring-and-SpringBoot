@@ -1,0 +1,5 @@
+package com.vatsalya.service;
+
+public interface IEmployeeService {
+
+}

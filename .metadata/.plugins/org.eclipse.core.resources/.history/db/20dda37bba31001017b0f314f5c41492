@@ -1,0 +1,16 @@
+package com.vatsalya.dao;
+
+import java.util.List;
+
+import com.vatsalya.model.Employee;
+
+public class EmployeeDAOImp implements IEmployeeDAO {
+
+	@Override
+	public List<Employee> getEmployeeByDesgs(String desg1, String desg2, String desg3) throws Exception 
+	{
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,66 @@
+package com.vatsalya.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.List;
+import javax.sql.DataSource;
+
+import com.vatsalya.model.Employee;
+
+public class EmployeeDAOImp implements IEmployeeDAO {
+
+	private static final String GET_EMPS_QUERY="SELECT EMPNO,ENAME,JOB,SAL,DEPTNO FROM EMP WHERE JOB IN(?,?,?) ORDER BY JOB";
+	
+	private DataSource ds;//IOC Container injects HikariDataSource object that comes through AutoConfiguration 
+	
+	@Override
+	public List<Employee> getEmployeeByDesgs(String desg1, String desg2, String desg3) throws Exception 
+	{
+		
+		List<Employee> list = null;
+		
+		try(Connection con = ds.getConnection(); PreparedStatement ps =  con.prepareStatement(GET_EMPS_QUERY);) 
+		{
+			//Set Values to the Query parameter
+			ps.setString(1, desg1);
+			ps.setString(2, desg2);
+			ps.setString(3, desg3);
+			
+			//Execute the SQL query 
+			try(ResultSet rs =  ps.executeQuery();)
+			{
+				//Copy Each Record of the ResultSet Object to Model Class object
+				
+				while(rs.next()) 
+				{
+					//Copy Each record to Employee class object
+					Employee emp = new Employee();
+					emp.setEno(rs.getInt(1));
+					emp.setEname(rs.getString(2));
+					emp.setJob(rs.getString(3));
+					emp.setSalary(rs.getDouble(4));
+					emp.setDeptno(rs.getInt(5));
+					
+					//add each model class object to the rs
+					
+					list.add(emp);
+					
+				}
+				
+			}//Inner Try Close 
+		}//Outer Try Close 
+		catch (SQLException se) {
+			se.printStackTrace();
+			throw se;
+		}
+		
+		catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+		return list;
+	}
+
+}

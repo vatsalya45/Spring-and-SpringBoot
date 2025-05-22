@@ -1,0 +1,33 @@
+package com.vatsalya.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.List;
+import javax.sql.DataSource;
+
+import com.vatsalya.model.Employee;
+
+public class EmployeeDAOImp implements IEmployeeDAO {
+
+	private static final String GET_EMPS_QUERY="SELECT EMPNO,ENAME,JOB,SAL,DEPTNO FROM EMP WHERE JOB IN(?,?,?) ORDER BY JOB";
+	
+	private DataSource ds;//IOC Container injects HikariDataSource object that comes through AutoConfiguration 
+	
+	@Override
+	public List<Employee> getEmployeeByDesgs(String desg1, String desg2, String desg3) throws Exception 
+	{
+		
+		List<Employee> list = null;
+		
+		try(Connection con = ds.getConnection(); PreparedStatement ps =  con.prepareStatement(GET_EMPS_QUERY);) 
+		{
+			//Set Values to the Query parameter
+			ps.setString(1, desg1);
+			ps.setString(2, desg2);
+			ps.setString(3, desg3);
+		}
+		
+		return list;
+	}
+
+}
