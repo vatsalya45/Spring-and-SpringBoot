@@ -21,7 +21,7 @@ public class EmployeeDAOImp implements IEmployeeDAO {
 	@Autowired
 	private DataSource ds;//IOC Container injects HikariDataSource object that comes through AutoConfiguration 
 	
-	@SuppressWarnings("null")
+	
 	@Override
 	public List<Employee> getEmployeeByDesgs(String desg1, String desg2, String desg3) throws Exception 
 	{

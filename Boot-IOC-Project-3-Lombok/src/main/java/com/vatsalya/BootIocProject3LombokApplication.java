@@ -15,13 +15,13 @@ import com.vatsalya.sbeans.DayFinder;
 public class BootIocProject3LombokApplication {
 
 	@Bean(name="idf")
-	public LocalDate createDate(){
+	 LocalDate createDate(){
 		
 		return LocalDate.now();
 	}
 	
 	@Bean(name="idft")
-	public LocalDateTime creDateTime() {
+	 LocalDateTime creDateTime() {
 		
 		return LocalDateTime.now();
 	}
