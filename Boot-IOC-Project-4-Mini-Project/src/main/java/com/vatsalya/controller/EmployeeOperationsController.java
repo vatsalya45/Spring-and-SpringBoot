@@ -20,4 +20,10 @@ public class EmployeeOperationsController {
 		return list;
 		
 	}//method
+	
+	public String processEmployee(Employee emp)throws Exception{
+		//Use Service
+		String resultMsg = service.registerEmployee(emp);
+		return resultMsg;
+	}
 }//class

@@ -17,6 +17,7 @@ import com.vatsalya.model.Employee;
 public class EmployeeDAOImp implements IEmployeeDAO {
 
 	private static final String GET_EMPS_QUERY="SELECT EMPNO,ENAME,JOB,SALARY,DEPTNO FROM EMP WHERE JOB IN(?,?,?) ORDER BY JOB";
+	private static final String INSERT_EMPLOYEE = "INSERT INTO EMP(EMPNO,ENAME,JOB,SALARY,DEPTNO) VALUES(EMP_SEQ1.NEXTVAL,?,?,?,?)";
 	
 	@Autowired
 	private DataSource ds;//IOC Container injects HikariDataSource object that comes through AutoConfiguration 
@@ -73,4 +74,33 @@ public class EmployeeDAOImp implements IEmployeeDAO {
 		return list;
 		
 	}//method 
+	
+	@Override
+	public int insertEmployee(Employee emp) throws Exception {
+		int result = 0;
+		//try with resource
+		try (//get pooled connection
+			Connection con=	ds.getConnection();
+				//create preparedStatement object having pre-compiled Query
+				PreparedStatement ps = con.prepareStatement(INSERT_EMPLOYEE);
+				){
+			//Set values to the Query params
+			ps.setString(1,emp.getEname());
+			ps.setString(2, emp.getJob());
+			ps.setDouble(3, emp.getSalary());
+			ps.setInt(4,emp.getDeptno());
+			
+			//Execute the SQL Query
+			result = ps.executeUpdate();
+		}
+		catch(SQLException se) {
+			se.printStackTrace();
+			throw se;
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+		return result;
+	}
 }//class
