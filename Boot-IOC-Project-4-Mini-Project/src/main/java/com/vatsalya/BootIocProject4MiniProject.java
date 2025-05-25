@@ -18,8 +18,6 @@ public class BootIocProject4MiniProject {
 		System.out.println("1. Find the Employee by desg.");
 		System.out.println("2. Register the new Employee");
 		a = sc.nextInt();
-		
-		
 		switch (a) {
 		case 1: {
 			
@@ -29,9 +27,7 @@ public class BootIocProject4MiniProject {
 			
 			registerEmployee(args);
 		}
-		}
-		
-		
+		}	
 	}
 	
 	public static void findEmployeeByDesg(String [] args) {

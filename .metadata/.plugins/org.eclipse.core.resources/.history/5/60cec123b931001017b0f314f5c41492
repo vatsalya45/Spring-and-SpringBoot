@@ -1,5 +1,0 @@
-package com.vatsalya.dao;
-
-public interface IEmployeeDAO {
-
-}
