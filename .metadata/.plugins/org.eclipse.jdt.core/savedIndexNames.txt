@@ -15,7 +15,6 @@ INDEX VERSION 1.134+C:\Users\shrad\OneDrive\Desktop\Spring\.metadata\.plugins\or
 1566260107.index
 1601175468.index
 2640117835.index
-3784145222.index
 995978480.index
 3095470273.index
 3521230960.index

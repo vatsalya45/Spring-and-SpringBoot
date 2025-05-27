@@ -17,7 +17,10 @@ public class Hotel {
 	private Long mobileNumber;
 	@Value("${customer.name}")
 	private String custName;
-	@Value("${hotel.billAmt}")//SpEL for arithmetic operation
+	/*@Value("#{${menu.samosaRate}+${menu.pohaRate}}")//SpEL for arithmetic operation
+	*@Value("#{T(java.lang.Float).parseFloat('${menu.samosaRate}') + T(java.lang.Float).parseFloat('${menu.pohaRate}')}")
+private Float billAmount;*/
+	@Value("#{menup.samosaPrice+menup.pohaPrice}")
 	private Float billAmount;
 	//os.name and user.name are the fixed system property key --> injecting system properties
 	@Value("${os.name}")
