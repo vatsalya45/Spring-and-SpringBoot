@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "menu.samosaRate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.samosaRate'"
+  },
+  {
+    "name": "menu.jalebiRate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.jalebiRate'"
+  },
+  {
+    "name": "menu.pohaRate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.pohaRate'"
+  },
+  {
+    "name": "hotel.name",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.name'"
+  },
+  {
+    "name": "menu.dosaRate",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.dosaRate'"
+  },
+  {
+    "name": "hotel.addrs",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.addrs'"
+  },
+  {
+    "name": "hotel.mobNum",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.mobNum'"
+  },
+  {
+    "name": "hotel.custName",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.custName'"
+  },
+  {
+    "name": "hotel.mobNum",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.mobNum'"
+  },
+  {
+    "name": "hotel.billAmt",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.billAmt'"
+  },
+  {
+    "name": "customer.name",
+    "type": "java.lang.String",
+    "description": "A description for 'customer.name'"
+  }
+]}
