@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "cc.name",
+    "type": "java.lang.String",
+    "description": "A description for 'cc.name'"
+  },
+  {
+    "name": "cc.mathFees",
+    "type": "java.lang.String",
+    "description": "A description for 'cc.mathFees'"
+  },
+  {
+    "name": "cc.physicsFees",
+    "type": "java.lang.String",
+    "description": "A description for 'cc.physicsFees'"
+  },
+  {
+    "name": "cc.chemistryFees",
+    "type": "java.lang.String",
+    "description": "A description for 'cc.chemistryFees'"
+  },
+  {
+    "name": "ss.id",
+    "type": "java.lang.String",
+    "description": "A description for 'ss.id'"
+  },
+  {
+    "name": "ss.name",
+    "type": "java.lang.String",
+    "description": "A description for 'ss.name'"
+  },
+  {
+    "name": "ss.enrolledCourse",
+    "type": "java.lang.String",
+    "description": "A description for 'ss.enrolledCourse'"
+  },
+  {
+    "name": "ss.enrolledCourse",
+    "type": "java.lang.String",
+    "description": "A description for 'ss.enrolledCourse'"
+  }
+]}

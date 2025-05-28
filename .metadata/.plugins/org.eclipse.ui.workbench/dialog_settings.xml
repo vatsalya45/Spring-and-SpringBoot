@@ -17,8 +17,8 @@
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="286"/>
 		<item key="DIALOG_Y_ORIGIN" value="6"/>
-		<item key="DIALOG_WIDTH" value="721"/>
-		<item key="DIALOG_HEIGHT" value="590"/>
+		<item key="DIALOG_WIDTH" value="772"/>
+		<item key="DIALOG_HEIGHT" value="743"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
@@ -27,12 +27,16 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
+			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
+			<item value="org.eclipse.ui.views.ContentOutline"/>
+			<item value="org.eclipse.debug.ui.DebugView"/>
 			<item value="org.eclipse.ui.console.ConsoleView"/>
 			<item value="org.eclipse.egit.ui.RepositoriesView"/>
 			<item value="org.eclipse.ui.views.PropertySheet"/>
-			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
 		</list>
 		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
@@ -43,12 +47,16 @@
 			<item value="1"/>
 			<item value="1"/>
 			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
 		</list>
 		<list key="textArray">
+			<item value="ter"/>
+			<item value="out"/>
+			<item value="de"/>
 			<item value="con"/>
 			<item value="git"/>
 			<item value="proper"/>
-			<item value="ter"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">

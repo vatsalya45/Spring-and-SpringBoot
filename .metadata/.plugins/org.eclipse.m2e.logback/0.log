@@ -3647,3 +3647,331 @@ org.eclipse.core.runtime.CoreException: Launch configuration Tester (1) referenc
 2025-05-27 23:20:16,133 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-05-27 23:20:16,145 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-05-27 23:20:16,150 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-6-ValueAnnotation-SPEL\src\test\resources
+2025-05-27 23:25:12,180 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-27 23:25:12,192 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-27 23:25:12,199 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-5-Mini-ProjectConnWithMySQL\src\test\resources
+2025-05-27 23:28:40,780 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-27 23:28:40,792 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-27 23:28:40,798 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-6-ValueAnnotation-SPEL\src\test\resources
+2025-05-28 00:22:44,515 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vatsalya:Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation:0.0.1-SNAPSHOT @ C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\pom.xml.
+2025-05-28 00:22:45,344 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/java
+2025-05-28 00:22:45,355 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/resources
+2025-05-28 00:22:45,372 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/resources
+2025-05-28 00:22:45,378 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/test/java
+2025-05-28 00:22:45,380 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/test/resources
+2025-05-28 00:22:45,765 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-05-28 00:22:45,776 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-28 00:22:46,128 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vatsalya:Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation:0.0.1-SNAPSHOT @ C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\pom.xml.
+2025-05-28 00:22:46,603 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/java
+2025-05-28 00:22:46,605 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/resources
+2025-05-28 00:22:46,606 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/main/resources
+2025-05-28 00:22:46,606 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/test/java
+2025-05-28 00:22:46,607 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation/src/test/resources
+2025-05-28 00:22:47,143 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-05-28 00:22:47,510 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:22:47,526 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:22:47,533 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 00:25:42,304 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:25:42,318 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:25:42,323 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 00:26:03,181 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:26:03,191 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:26:03,196 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 00:26:28,170 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:26:28,182 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:26:28,188 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 00:27:39,852 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:27:39,862 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:27:39,868 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 00:29:56,754 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 00:29:56,760 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 00:29:56,763 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:53:59,735 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-28 14:56:25,138 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:56:25,160 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:56:25,168 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:57:18,950 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:57:18,961 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:57:18,969 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:58:11,854 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:58:11,867 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:58:11,874 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:58:55,894 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:58:55,907 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:58:55,916 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:59:05,448 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:59:05,455 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:59:05,461 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:59:07,106 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:59:07,115 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:59:07,121 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 14:59:27,321 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 14:59:27,330 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 14:59:27,337 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:00:39,654 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:00:39,664 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:00:39,671 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:01:02,463 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:01:02,473 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:01:02,480 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:01:25,453 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:01:25,459 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:01:25,463 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:01:55,473 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:01:55,482 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:01:55,488 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:02:18,707 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:02:18,713 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:02:18,718 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:02:36,899 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:02:36,905 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:02:36,912 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:02:43,579 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:02:43,584 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:02:43,588 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:03:05,852 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:03:05,860 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:03:05,866 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:04:33,100 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:04:33,111 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:04:33,118 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:05:24,327 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:05:24,331 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:05:24,349 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:05:35,667 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:05:35,669 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:05:35,679 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:05:39,457 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:05:39,458 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:05:39,467 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:05:50,844 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:05:50,846 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:05:50,856 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:06:59,145 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:06:59,163 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:06:59,170 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:07:02,800 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:07:02,801 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:07:02,809 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:07:09,766 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:07:09,768 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:07:09,775 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:07:15,612 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:07:15,614 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:07:15,622 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:07:23,371 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:07:23,372 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:07:23,379 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:08:09,889 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:09,899 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:09,905 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:08:13,614 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:13,621 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:13,628 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:08:19,264 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:19,273 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:19,281 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:08:41,307 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:41,316 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:08:41,322 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:09:28,765 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:09:28,778 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:09:28,787 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:10:23,501 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:10:23,514 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:10:23,524 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:10:47,402 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:10:47,414 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:10:47,421 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:10:57,155 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:10:57,166 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:10:57,174 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:12:00,265 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:12:00,275 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:12:00,282 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:12:53,428 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:12:53,437 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:12:53,443 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:13:31,420 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:13:31,426 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:13:31,432 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:14:09,186 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:14:09,196 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:14:09,203 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:14:30,323 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:14:30,333 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:14:30,344 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:15:28,074 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:15:28,085 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:15:28,092 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:15:56,764 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:15:56,776 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:15:56,784 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:16:35,977 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:16:35,988 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:16:35,994 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:18:29,690 [Worker-13: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:18:29,703 [Worker-13: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:18:29,710 [Worker-13: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:19:29,999 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:19:30,010 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:19:30,016 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:19:35,302 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:19:35,311 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:19:35,318 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:20:10,681 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:20:10,691 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:20:10,698 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:26:21,760 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:26:21,774 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:26:21,781 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:33:38,083 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:33:38,095 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:33:38,104 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:34:04,315 [Worker-48: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:34:04,331 [Worker-48: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:34:04,340 [Worker-48: Launching BootIocProject7DataInjectionUsingValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:34:56,994 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:34:57,007 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:34:57,014 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:35:24,977 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:35:24,986 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:35:24,992 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:36:08,251 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:36:08,261 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:36:08,267 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:41:35,633 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:41:35,642 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:41:35,648 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:43:20,880 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:43:20,893 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:43:20,898 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:43:31,925 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:43:31,937 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:43:31,999 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:46:39,327 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,372 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,379 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-01\src\test\resources
+2025-05-28 15:46:39,652 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,673 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,688 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-2\src\test\resources
+2025-05-28 15:46:39,931 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,952 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:46:39,958 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-3-Lombok\src\test\resources
+2025-05-28 15:46:40,274 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:40,302 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:46:40,309 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-4-Mini-Project\src\test\resources
+2025-05-28 15:46:40,603 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:40,633 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:46:40,639 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-5-Mini-ProjectConnWithMySQL\src\test\resources
+2025-05-28 15:46:41,042 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:41,079 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:41,087 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-6-ValueAnnotation-SPEL\src\test\resources
+2025-05-28 15:46:41,225 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:41,233 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:46:41,239 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:46:41,529 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:46:41,533 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-05-28 15:46:42,054 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\main\resources
+2025-05-28 15:46:42,060 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\test\resources
+2025-05-28 15:46:42,264 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\main\resources
+2025-05-28 15:46:42,270 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\test\resources
+2025-05-28 15:46:42,639 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\main\resources
+2025-05-28 15:46:42,644 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\test\resources
+2025-05-28 15:46:42,821 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\main\resources
+2025-05-28 15:46:42,826 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\test\resources
+2025-05-28 15:47:04,353 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:04,359 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:04,364 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:47:14,376 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,379 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,385 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-01\src\test\resources
+2025-05-28 15:47:14,518 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,521 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,532 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-2\src\test\resources
+2025-05-28 15:47:14,697 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,701 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:47:14,708 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-3-Lombok\src\test\resources
+2025-05-28 15:47:14,996 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,007 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,013 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-4-Mini-Project\src\test\resources
+2025-05-28 15:47:15,148 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,151 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,154 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-5-Mini-ProjectConnWithMySQL\src\test\resources
+2025-05-28 15:47:15,254 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,257 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,262 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-6-ValueAnnotation-SPEL\src\test\resources
+2025-05-28 15:47:15,578 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,581 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,589 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:47:15,747 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:47:15,750 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-05-28 15:47:15,959 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\main\resources
+2025-05-28 15:47:15,962 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\test\resources
+2025-05-28 15:47:16,042 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\main\resources
+2025-05-28 15:47:16,046 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\test\resources
+2025-05-28 15:47:16,129 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\main\resources
+2025-05-28 15:47:16,132 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\test\resources
+2025-05-28 15:47:16,208 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\main\resources
+2025-05-28 15:47:16,211 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\test\resources
+2025-05-28 15:48:40,540 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:48:40,551 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:48:40,556 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:48:47,484 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:48:47,496 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:48:47,503 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:53:45,829 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:53:45,838 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:53:45,843 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:54:01,779 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:01,782 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:54:01,787 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-01\src\test\resources
+2025-05-28 15:54:01,915 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:01,919 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:01,926 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-2\src\test\resources
+2025-05-28 15:54:02,081 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,083 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,091 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-3-Lombok\src\test\resources
+2025-05-28 15:54:02,384 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,387 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,392 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-4-Mini-Project\src\test\resources
+2025-05-28 15:54:02,563 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,566 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,574 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-5-Mini-ProjectConnWithMySQL\src\test\resources
+2025-05-28 15:54:02,941 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,944 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:02,950 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-6-ValueAnnotation-SPEL\src\test\resources
+2025-05-28 15:54:03,060 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:03,062 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:03,069 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:54:03,270 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-28 15:54:03,274 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-05-28 15:54:03,372 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\main\resources
+2025-05-28 15:54:03,377 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject06-Scope-Singleton\src\test\resources
+2025-05-28 15:54:03,464 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\main\resources
+2025-05-28 15:54:03,467 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject07-Scope-Prototype\src\test\resources
+2025-05-28 15:54:03,550 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\main\resources
+2025-05-28 15:54:03,553 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject08-Lazy-Instantiation\src\test\resources
+2025-05-28 15:54:03,637 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\main\resources
+2025-05-28 15:54:03,641 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\IOCProject09-Properties-File\src\test\resources
+2025-05-28 15:54:08,083 [Worker-71: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:08,093 [Worker-71: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:08,099 [Worker-71: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:54:53,045 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:53,057 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:54:53,063 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:55:13,509 [Worker-66: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:55:13,523 [Worker-66: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:55:13,535 [Worker-66: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:56:05,116 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:05,123 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:05,127 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:56:10,824 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:10,830 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:10,836 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:56:32,207 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:32,218 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:56:32,225 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 15:57:24,765 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:57:24,776 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 15:57:24,783 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="com.vatsalya.sbeans.FlipKart"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.vatsalya.cfgs.AppConfig"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
@@ -21,7 +18,6 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
     <fullyQualifiedTypeName name="com.vatsalya.sbeans.SeasonFinder"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="com.vatsalya.sbeans.DieselEngine"/>
@@ -34,10 +30,8 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="com.vatsalya.sbeans.SalaryCalculator"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
@@ -45,11 +39,9 @@
     <fullyQualifiedTypeName name="com.vatsalya.service.IEmployeeService"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
     <fullyQualifiedTypeName name="com.vatsalya.BootIocProject4MiniProject"/>
     <fullyQualifiedTypeName name="com.vatsalya.controller.EmployeeOperationsController"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
@@ -60,4 +52,12 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="org.apache.logging.log4j.message.ReusableMessage"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="lombok.val"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="com.vatsalya.sbeans.Hotel"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
 </qualifiedTypeNameHistroy>
