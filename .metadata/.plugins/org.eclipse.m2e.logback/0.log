@@ -3975,3 +3975,7 @@ org.eclipse.core.runtime.CoreException: Launch configuration Tester (1) referenc
 2025-05-28 15:57:24,765 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-05-28 15:57:24,776 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-05-28 15:57:24,783 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources
+2025-05-28 20:17:34,365 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-28 20:21:43,191 [Worker-1: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 20:21:43,256 [Worker-1: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-28 20:21:43,264 [Worker-1: Launching BootIocProject7ValueAnnotationApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shrad\OneDrive\Desktop\Spring\Boot-IOC-Project-7-DataInjection-Using-ValueAnnotation\src\test\resources

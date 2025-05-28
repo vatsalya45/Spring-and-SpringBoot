@@ -15,8 +15,8 @@ public class StudentInfo {
 	private String name;
 	@Value("${ss.enrolledCourse}")
 	private String enrolledCourse;
-	// @Value("#{CoCl.mathsFees+CoCl.physicsFees+CoCl.chemistryFee}")
-	@Value("223")
+	@Value("#{CoCl.mathFees+CoCl.physicsFees+CoCl.chemistryFees}")
+	// @Value("223")
 	private Double totalFee;// math + physics + chemistry
 
 	@Value("${os.name}") // fixed system properties
