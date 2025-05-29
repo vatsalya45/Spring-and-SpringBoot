@@ -27,10 +27,9 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
-			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
-			<item value="org.eclipse.debug.ui.DebugPerspective"/>
-			<item value="org.eclipse.debug.ui.ExpressionView"/>
 			<item value="org.eclipse.debug.ui.DebugView"/>
+			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
+			<item value="org.eclipse.debug.ui.ExpressionView"/>
 			<item value="org.eclipse.ui.views.ContentOutline"/>
 			<item value="org.eclipse.ui.console.ConsoleView"/>
 			<item value="org.eclipse.egit.ui.RepositoriesView"/>
@@ -38,7 +37,6 @@
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
-			<item value="org.eclipse.ui.perspectives"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
@@ -47,8 +45,7 @@
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textEntries">
-			<item value="1"/>
-			<item value="1"/>
+			<item value="2"/>
 			<item value="1"/>
 			<item value="1"/>
 			<item value="1"/>
@@ -57,10 +54,10 @@
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="ter"/>
 			<item value="debug"/>
-			<item value="debu"/>
 			<item value="de"/>
+			<item value="ter"/>
+			<item value="debu"/>
 			<item value="out"/>
 			<item value="con"/>
 			<item value="git"/>
