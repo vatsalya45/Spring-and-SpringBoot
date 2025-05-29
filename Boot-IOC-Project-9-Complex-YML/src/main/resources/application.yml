@@ -1,0 +1,40 @@
+#Employee Info
+org:
+ nit:
+ #for simple properties
+  eno:
+   100
+  ename:
+   "rajesh"
+ #for array	
+  favColours:
+   -red
+   -blue
+   -green
+ #for list
+  nickNames:
+   -vasu
+   -anuj
+   -tatya
+ #for set
+  phoneNumbers:
+   -ken
+   -jak
+ #for map
+  idDetails:
+   aadhar:
+    8943900270
+   voter:
+    7594379
+   panCard:
+    74385h85409
+ #for has-a
+   company:
+    id:
+     8539
+    name:
+     "vasu"
+    addrs:
+     "rewa"
+    size:
+     100	

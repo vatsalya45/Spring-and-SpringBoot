@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "org.company",
+    "type": "java.lang.String",
+    "description": "A description for 'org.company'"
+  },
+  {
+    "name": "org.idDetails",
+    "type": "java.lang.String",
+    "description": "A description for 'org.idDetails'"
+  },
+  {
+    "name": "org.phone-numbers",
+    "type": "java.lang.String",
+    "description": "A description for 'org.phone-numbers'"
+  },
+  {
+    "name": "org.nick-names",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nick-names'"
+  },
+  {
+    "name": "org.favColours",
+    "type": "java.lang.String",
+    "description": "A description for 'org.favColours'"
+  }
+]}
